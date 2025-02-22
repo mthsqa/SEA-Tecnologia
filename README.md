@@ -62,11 +62,4 @@ Todos os Catestes, o rastreamento de bugs e a identificação de falhas, assim c
 - [Rastreamento de Bugs](https://docs.google.com/spreadsheets/d/1x5fcHXatu7seQ8MZI1WWmLrU_I77L6l74zd2BmOoNP4/edit?usp=sharing)
 
 
-## 📌 Contato
-- **GitHub**: [mthsqa](https://github.com/mthsqa)
-- **LinkedIn**: [mthsqa](https://linkedin.com/in/mthsqa)
-- **Email**: mthsqa@gmail.com
-
 ---
-
-Desenvolvido por [mthsqa](https://github.com/mthsqa)
