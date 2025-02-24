@@ -56,7 +56,7 @@ yarn cypress open
 
 ## 📊 Relatórios de Testes e Casos de Teste
 
-Todos os Catestes, o rastreamento de bugs e a identificação de falhas, assim como outras etapas importantes do processo seletivo, estão documentados no Google Sheets. Utilize os links abaixo para acessar as documentações:
+Todos os Casos de testes, o rastreamento de bugs e a identificação de falhas, assim como outras etapas importantes do processo seletivo, estão documentados no Google Sheets. Utilize os links abaixo para acessar as documentações:
 
 - [Casos de Teste](https://docs.google.com/spreadsheets/d/1x5fcHXatu7seQ8MZI1WWmLrU_I77L6l74zd2BmOoNP4/edit?usp=sharing)
 - [Rastreamento de Bugs](https://docs.google.com/spreadsheets/d/1x5fcHXatu7seQ8MZI1WWmLrU_I77L6l74zd2BmOoNP4/edit?usp=sharing)
